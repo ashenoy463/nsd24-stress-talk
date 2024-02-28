@@ -1,0 +1,7 @@
+stress_per_atom.txt filter=lfs diff=lfs merge=lfs -text
+polystyrene_output/data//stress_per_atom.txt filter=lfs diff=lfs merge=lfs -text
+polythene_output/data//stress_per_atom.txt filter=lfs diff=lfs merge=lfs -text
+polythene_output/polythene_chainbreaking.mp4 filter=lfs diff=lfs merge=lfs -text
+polythene_output/polythene_chainbreaking_stresstensor.mp4 filter=lfs diff=lfs merge=lfs -text
+polystyrene_output/polystyrene_chainbreaking.mp4 filter=lfs diff=lfs merge=lfs -text
+polystyrene_output/polystyrene_chainbreaking_stresstensor.mp4 filter=lfs diff=lfs merge=lfs -text
